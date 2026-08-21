@@ -146,21 +146,7 @@ npm install
 # Install frontend dependencies
 cd ../frontend
 npm install
-```
 
-### Environment Variables
-
-Create `.env` files in `backend/` and `frontend/` as needed. Example (backend):
-
-```env
-PORT=4000
-MONGODB_URI=mongodb://localhost:27017/makeway
-JWT_SECRET=your_jwt_secret
-FIREBASE_PROJECT_ID=your_firebase_project_id
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
-```
 
 ### Running Locally
 
