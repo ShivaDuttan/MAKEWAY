@@ -1,0 +1,6 @@
+{
+  "name": "Make Way",
+  "description": "A premium digital marketplace connecting skilled workers, student innovators, and clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
