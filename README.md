@@ -130,9 +130,7 @@ Existing job portals focus on white‑collar or generic gig work, leaving a thre
 ### Prerequisites
 
 - Node.js 18+ and npm
-- MongoDB (local or cloud)
-- Firebase project (for Auth) – optional for prototype
-- Cloudinary account (for images) – optional for prototype
+- Supabase (authentication , database management , overall backend connection)
 
 ### Installation
 
